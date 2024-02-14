@@ -10,6 +10,7 @@ fetch('data.json')
       let clickCount = 0; 
       productItem.innerHTML = `
         <div class="card">
+        .<img src="${product.img}" class="card-img-top" alt=${product.product_name}">
           <div class="card-body">
             <h5 class="card-title">${product.product_name}</h5>
             <p class="card-text">${product.product_description}</p>

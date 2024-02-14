@@ -1,37 +1,43 @@
 [
     {
+      
       "product_id": 1,
       "product_name": "Creamy Vanilla ",
       "product_description": "Rich creamy & vanilla marshmallow, featuring apple blossom.",
-      "product_price": 3.00
-      
+      "product_price": 3.00,
+      "img":"creamyVanilla.jpg"
     },
     {
       "product_id": 2,
       "product_name": "Coco Blossom",
       "product_description": "Smell of ylang-ylang & tunisian orange blossom",
-      "product_price": 3.00
+      "product_price": 3.00,
+      "img":"cocoblossom.jpg"
 
     },
     {
       "product_id": 3,
       "product_name": "Bright Diamond",
       "product_description": "Juicy pomegranate grains, iced freshness and shinning yuzo",
-      "product_price": 3.00
+      "product_price": 3.00,
+      "img":"bright diamon.jpg"
      
     },
     {
       "product_id": 4,
       "product_name": "Bombshell",
       "product_description": "Blend of citrus, brazilian purple passion fruit, madagascan vanilla orchid & italian pine",
-      "product_price": 3.00
+      "product_price": 3.00,
+      "img":"bombshell.jpg"
+      
      
     },
     {
       "product_id": 5,
       "product_name": "Chance of Beauty",
       "product_description": "Pink pepper jasmine & amber pachouli floral, spicy, sensual and garmand",
-      "product_price": 3.00
+      "product_price": 3.00,
+      "img":"chance.jfif"
       
      
     },
@@ -39,7 +45,7 @@
       "product_id": 6,
       "product_name": "Cloud & Cream",
       "product_description": "Dreamy vanilla coconut in cream coupled with juicy, swetness of pear and bright bergamot",
-      "product_price": 3.00
-     
+      "product_price": 3.00,
+     "img":"cloud.jfif"
     }
   ]
